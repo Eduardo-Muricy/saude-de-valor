@@ -64,7 +64,7 @@ export default function Trilha() {
             </div>
 
 
-            <div className="bg-[#FF6A00] text-[#E4EBE0] px-20 md:px-50 py-4   text-md md:text-2xl font-bold rounded-md my-6 shadow-lg"><Link href="/">QUERO SER MAIS VALORIZADO</Link></div>
+            <div className="bg-[#FF6A00] text-[#E4EBE0] px-14 md:px-50 py-4   text-md md:text-2xl font-bold rounded-md my-6 shadow-lg"><Link href="/">QUERO SER MAIS VALORIZADO</Link></div>
         </div>
 
 
