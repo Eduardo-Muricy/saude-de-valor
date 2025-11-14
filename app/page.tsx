@@ -6,6 +6,7 @@ import OqueE from "@/app/_components/OqueE/page";
 import Selos from "@/app/_components/Selos/page";
 import PraQuem from "@/app/_components/PraQuem/page";
 import Caminho from "@/app/_components/Caminho/page"
+import ProvaSocial from "@/app/_components/ProvaSocial/page"
 export default function Home() {
   return (
     <main className=" bg-[#F0EEE1]">
@@ -17,6 +18,7 @@ export default function Home() {
       <Selos/>
       <PraQuem/>
       <Caminho/>
+      <ProvaSocial/>
   </main>
 );
 }
